@@ -14,6 +14,15 @@ Our PanScanner uses AI technology to protect the privacy and security of persona
 
 # Tool Details
 
+It is easy to use our tool.
+
+ usage: panscanner.py [-h] [-d DIR]
+
+ optional arguments:
+   -h, --help         show this help message and exit
+   -d DIR, --dir DIR  Directory to scan
+
+
 1. Introduce the privacy and security issues of personal cloud storage.
 
 Personal cloud storage, such as Dropbox, Google Drive, and iCloud,  has brought various conveniences to people's lives, but also brought various privacy risks. Once hackers intrude into personal cloud storage accounts, a large number of privacy information will be leaked, such as taking private photos of sensitive parts, taking photos of important certificates, recording personal sensitive data files, etc.  In 2018, Mikaela Hoover, an actress who starred in the movie Galaxy escort and played Nova's top commander's assistant, was hacked into her icloud account recently, revealing up to 40000 photos. Among them, 119 are Mikaela's personal privacy pictures. What's more, the hackers also published these pictures on Fappening.
