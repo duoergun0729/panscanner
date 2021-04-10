@@ -15,14 +15,16 @@ Our PanScanner uses AI technology to protect the privacy and security of persona
 # Tool Details
 
 It is easy to use our tool.
-···
+
+
  python panscanner.py -h
  usage: panscanner.py [-h] [-d DIR]
 
  optional arguments:
    -h, --help         show this help message and exit
    -d DIR, --dir DIR  Directory to scan
-···
+
+
 
 1. Introduce the privacy and security issues of personal cloud storage.
 
