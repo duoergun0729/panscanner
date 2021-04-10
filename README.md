@@ -16,6 +16,7 @@ Our PanScanner uses AI technology to protect the privacy and security of persona
 
 It is easy to use our tool.
 
+ python panscanner.py -h
  usage: panscanner.py [-h] [-d DIR]
 
  optional arguments:
